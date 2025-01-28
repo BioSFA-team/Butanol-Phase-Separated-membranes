@@ -39,3 +39,6 @@ gmx mdrun -cpi $path/state_step7.1.cpt -o $path/step7.1.trr \
 
 Analysis scripts can found in this
 [link](https://github.com/jon33dn/Lipid-Membrane-Partitoning-Analysis---MD-Simulation)
+
+Please download the data from https://zenodo.org/records/14751460
+
